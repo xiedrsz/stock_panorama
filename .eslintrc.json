@@ -1,0 +1,13 @@
+{
+  "parser": "babel-eslint",
+  "extends": [
+    "standard",
+    "standard-react"
+  ],
+  "rules": {
+    "react/jsx-curly-spacing": 1,
+    "no-useless-constructor": "warn",
+    "react/self-closing-comp": 0,
+    "standard/no-callback-literal": [ 2, [ "cb" ] ]
+  }
+}
