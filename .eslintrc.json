@@ -5,8 +5,9 @@
     "standard-react"
   ],
   "rules": {
-    "react/jsx-curly-spacing": 1,
     "no-useless-constructor": "warn",
+    "no-unused-vars": "warn",
+    "react/jsx-curly-spacing": 1,
     "react/self-closing-comp": 0,
     "standard/no-callback-literal": [ 2, [ "cb" ] ]
   }
