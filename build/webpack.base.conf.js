@@ -22,18 +22,10 @@ module.exports = {
     }
   },
   module: {
-    /*preLoaders: [
-      {
-        test: /\.js$/,
-        loader: 'eslint',
-        exclude: /node_modules/
-      }
-    ],*/
     rules: [
       {
         test: /\.jsx?$/,
         enforce: 'pre',
-        //loader: 'babel-loader',
         loader: ['babel-loader', 'eslint-loader'],
         include: [resolve('src'), resolve('tests')]
       },

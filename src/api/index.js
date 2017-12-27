@@ -32,5 +32,7 @@ mock.onGet('/randomuser').reply((config) => {
     })
   })
 })
+// 获取基金信息
+mock.onGet('/fund').reply(200, require('./mock/fund'))
 
 export default mockAxios

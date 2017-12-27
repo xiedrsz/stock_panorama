@@ -3,7 +3,8 @@ import PropTypes from 'prop-types'
 import { bindActionCreators } from 'redux'
 import { connect } from 'react-redux'
 import { Layout } from 'antd'
-import { Route, Redirect } from 'react-router-dom'
+// import { Route, Redirect } from 'react-router-dom'
+import { Route } from 'react-router-dom'
 
 import { childRoutes } from '@/route'
 import authHOC from '@/utils/auth'
@@ -35,7 +36,7 @@ class App extends React.Component {
           <Content style={{ margin: '0 16px' }}>
             <NavPath data={navpath} />
             <div style={{ minHeight: 360 }}>
-              <Redirect to='/home' />
+              <Route path='/' exact component={childRoutes[0].component} />
               {childRoutes.map((route, index) => (
                 <Route key={index} path={route.path} component={authHOC(route.component)} exactly={route.exactly} />
               ))}

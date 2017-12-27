@@ -1,0 +1,1237 @@
+[
+  {
+    "PDATE": "2016-11-03",
+    "YIELD": 0,
+    "INDEXYIED": 0
+  },
+  {
+    "PDATE": "2016-11-04",
+    "YIELD": -0.06,
+    "INDEXYIED": 0.02
+  },
+  {
+    "PDATE": "2016-11-07",
+    "YIELD": 0,
+    "INDEXYIED": -0.01
+  },
+  {
+    "PDATE": "2016-11-08",
+    "YIELD": 0.07,
+    "INDEXYIED": 0
+  },
+  {
+    "PDATE": "2016-11-09",
+    "YIELD": -0.06,
+    "INDEXYIED": 0.02
+  },
+  {
+    "PDATE": "2016-11-10",
+    "YIELD": 0.2,
+    "INDEXYIED": 0
+  },
+  {
+    "PDATE": "2016-11-11",
+    "YIELD": 0.26,
+    "INDEXYIED": -0.01
+  },
+  {
+    "PDATE": "2016-11-14",
+    "YIELD": 0.2,
+    "INDEXYIED": 0
+  },
+  {
+    "PDATE": "2016-11-15",
+    "YIELD": 0.26,
+    "INDEXYIED": -0.05
+  },
+  {
+    "PDATE": "2016-11-16",
+    "YIELD": 0.26,
+    "INDEXYIED": -0.02
+  },
+  {
+    "PDATE": "2016-11-17",
+    "YIELD": 0.26,
+    "INDEXYIED": -0.1
+  },
+  {
+    "PDATE": "2016-11-18",
+    "YIELD": 0.13,
+    "INDEXYIED": -0.1
+  },
+  {
+    "PDATE": "2016-11-21",
+    "YIELD": 0.39,
+    "INDEXYIED": -0.07
+  },
+  {
+    "PDATE": "2016-11-22",
+    "YIELD": 0.78,
+    "INDEXYIED": -0.08
+  },
+  {
+    "PDATE": "2016-11-23",
+    "YIELD": 0.91,
+    "INDEXYIED": -0.04
+  },
+  {
+    "PDATE": "2016-11-24",
+    "YIELD": 1.24,
+    "INDEXYIED": -0.04
+  },
+  {
+    "PDATE": "2016-11-25",
+    "YIELD": 1.63,
+    "INDEXYIED": -0.09
+  },
+  {
+    "PDATE": "2016-11-28",
+    "YIELD": 1.63,
+    "INDEXYIED": -0.09
+  },
+  {
+    "PDATE": "2016-11-29",
+    "YIELD": 1.37,
+    "INDEXYIED": -0.14
+  },
+  {
+    "PDATE": "2016-11-30",
+    "YIELD": 0.85,
+    "INDEXYIED": -0.26
+  },
+  {
+    "PDATE": "2016-12-01",
+    "YIELD": 0.85,
+    "INDEXYIED": -0.27
+  },
+  {
+    "PDATE": "2016-12-02",
+    "YIELD": 0.13,
+    "INDEXYIED": -0.24
+  },
+  {
+    "PDATE": "2016-12-05",
+    "YIELD": -0.72,
+    "INDEXYIED": -0.23
+  },
+  {
+    "PDATE": "2016-12-06",
+    "YIELD": -0.98,
+    "INDEXYIED": -0.31
+  },
+  {
+    "PDATE": "2016-12-07",
+    "YIELD": -0.78,
+    "INDEXYIED": -0.32
+  },
+  {
+    "PDATE": "2016-12-08",
+    "YIELD": -0.65,
+    "INDEXYIED": -0.29
+  },
+  {
+    "PDATE": "2016-12-09",
+    "YIELD": -0.52,
+    "INDEXYIED": -0.33
+  },
+  {
+    "PDATE": "2016-12-12",
+    "YIELD": -2.02,
+    "INDEXYIED": -0.42
+  },
+  {
+    "PDATE": "2016-12-13",
+    "YIELD": -2.41,
+    "INDEXYIED": -0.48
+  },
+  {
+    "PDATE": "2016-12-14",
+    "YIELD": -2.86,
+    "INDEXYIED": -0.52
+  },
+  {
+    "PDATE": "2016-12-15",
+    "YIELD": -4.29,
+    "INDEXYIED": -0.73
+  },
+  {
+    "PDATE": "2016-12-16",
+    "YIELD": -3.51,
+    "INDEXYIED": -0.75
+  },
+  {
+    "PDATE": "2016-12-19",
+    "YIELD": -4.42,
+    "INDEXYIED": -0.76
+  },
+  {
+    "PDATE": "2016-12-20",
+    "YIELD": -4.94,
+    "INDEXYIED": -0.81
+  },
+  {
+    "PDATE": "2016-12-21",
+    "YIELD": -3.77,
+    "INDEXYIED": -0.78
+  },
+  {
+    "PDATE": "2016-12-22",
+    "YIELD": -3.25,
+    "INDEXYIED": -0.67
+  },
+  {
+    "PDATE": "2016-12-23",
+    "YIELD": -3.38,
+    "INDEXYIED": -0.62
+  },
+  {
+    "PDATE": "2016-12-26",
+    "YIELD": -3.32,
+    "INDEXYIED": -0.58
+  },
+  {
+    "PDATE": "2016-12-27",
+    "YIELD": -3.19,
+    "INDEXYIED": -0.65
+  },
+  {
+    "PDATE": "2016-12-28",
+    "YIELD": -3.51,
+    "INDEXYIED": -0.79
+  },
+  {
+    "PDATE": "2016-12-29",
+    "YIELD": -3.51,
+    "INDEXYIED": -0.69
+  },
+  {
+    "PDATE": "2016-12-30",
+    "YIELD": -3.19,
+    "INDEXYIED": -0.62
+  },
+  {
+    "PDATE": "2016-12-31",
+    "YIELD": -3.19,
+    "INDEXYIED": -0.62
+  },
+  {
+    "PDATE": "2017-01-03",
+    "YIELD": -2.8,
+    "INDEXYIED": -0.67
+  },
+  {
+    "PDATE": "2017-01-04",
+    "YIELD": -2.15,
+    "INDEXYIED": -0.66
+  },
+  {
+    "PDATE": "2017-01-05",
+    "YIELD": -2.08,
+    "INDEXYIED": -0.69
+  },
+  {
+    "PDATE": "2017-01-06",
+    "YIELD": -2.41,
+    "INDEXYIED": -0.7
+  },
+  {
+    "PDATE": "2017-01-09",
+    "YIELD": -1.95,
+    "INDEXYIED": -0.66
+  },
+  {
+    "PDATE": "2017-01-10",
+    "YIELD": -2.02,
+    "INDEXYIED": -0.67
+  },
+  {
+    "PDATE": "2017-01-11",
+    "YIELD": -2.28,
+    "INDEXYIED": -0.7
+  },
+  {
+    "PDATE": "2017-01-12",
+    "YIELD": -2.54,
+    "INDEXYIED": -0.68
+  },
+  {
+    "PDATE": "2017-01-13",
+    "YIELD": -2.67,
+    "INDEXYIED": -0.69
+  },
+  {
+    "PDATE": "2017-01-16",
+    "YIELD": -3.12,
+    "INDEXYIED": -0.67
+  },
+  {
+    "PDATE": "2017-01-17",
+    "YIELD": -3.06,
+    "INDEXYIED": -0.73
+  },
+  {
+    "PDATE": "2017-01-18",
+    "YIELD": -2.99,
+    "INDEXYIED": -0.72
+  },
+  {
+    "PDATE": "2017-01-19",
+    "YIELD": -3.06,
+    "INDEXYIED": -0.72
+  },
+  {
+    "PDATE": "2017-01-20",
+    "YIELD": -2.73,
+    "INDEXYIED": -0.69
+  },
+  {
+    "PDATE": "2017-01-23",
+    "YIELD": -2.54,
+    "INDEXYIED": -0.7
+  },
+  {
+    "PDATE": "2017-01-24",
+    "YIELD": -2.6,
+    "INDEXYIED": -0.64
+  },
+  {
+    "PDATE": "2017-01-25",
+    "YIELD": -2.41,
+    "INDEXYIED": -0.7
+  },
+  {
+    "PDATE": "2017-01-26",
+    "YIELD": -2.15,
+    "INDEXYIED": -0.67
+  },
+  {
+    "PDATE": "2017-02-03",
+    "YIELD": -2.93,
+    "INDEXYIED": -0.61
+  },
+  {
+    "PDATE": "2017-02-06",
+    "YIELD": -2.8,
+    "INDEXYIED": -0.64
+  },
+  {
+    "PDATE": "2017-02-07",
+    "YIELD": -2.99,
+    "INDEXYIED": -0.7
+  },
+  {
+    "PDATE": "2017-02-08",
+    "YIELD": -2.8,
+    "INDEXYIED": -0.69
+  },
+  {
+    "PDATE": "2017-02-09",
+    "YIELD": -2.54,
+    "INDEXYIED": -0.66
+  },
+  {
+    "PDATE": "2017-02-10",
+    "YIELD": -2.28,
+    "INDEXYIED": -0.66
+  },
+  {
+    "PDATE": "2017-02-13",
+    "YIELD": -1.95,
+    "INDEXYIED": -0.64
+  },
+  {
+    "PDATE": "2017-02-14",
+    "YIELD": -2.02,
+    "INDEXYIED": -0.64
+  },
+  {
+    "PDATE": "2017-02-15",
+    "YIELD": -2.15,
+    "INDEXYIED": -0.67
+  },
+  {
+    "PDATE": "2017-02-16",
+    "YIELD": -2.15,
+    "INDEXYIED": -0.67
+  },
+  {
+    "PDATE": "2017-02-17",
+    "YIELD": -2.47,
+    "INDEXYIED": -0.66
+  },
+  {
+    "PDATE": "2017-02-20",
+    "YIELD": -1.76,
+    "INDEXYIED": -0.57
+  },
+  {
+    "PDATE": "2017-02-21",
+    "YIELD": -1.43,
+    "INDEXYIED": -0.56
+  },
+  {
+    "PDATE": "2017-02-22",
+    "YIELD": -1.17,
+    "INDEXYIED": -0.52
+  },
+  {
+    "PDATE": "2017-02-23",
+    "YIELD": -1.3,
+    "INDEXYIED": -0.53
+  },
+  {
+    "PDATE": "2017-02-24",
+    "YIELD": -1.3,
+    "INDEXYIED": -0.53
+  },
+  {
+    "PDATE": "2017-02-27",
+    "YIELD": -1.76,
+    "INDEXYIED": -0.48
+  },
+  {
+    "PDATE": "2017-02-28",
+    "YIELD": -1.69,
+    "INDEXYIED": -0.48
+  },
+  {
+    "PDATE": "2017-03-01",
+    "YIELD": -1.63,
+    "INDEXYIED": -0.48
+  },
+  {
+    "PDATE": "2017-03-02",
+    "YIELD": -1.89,
+    "INDEXYIED": -0.49
+  },
+  {
+    "PDATE": "2017-03-03",
+    "YIELD": -1.76,
+    "INDEXYIED": -0.49
+  },
+  {
+    "PDATE": "2017-03-06",
+    "YIELD": -1.56,
+    "INDEXYIED": -0.47
+  },
+  {
+    "PDATE": "2017-03-07",
+    "YIELD": -1.37,
+    "INDEXYIED": -0.46
+  },
+  {
+    "PDATE": "2017-03-08",
+    "YIELD": -1.63,
+    "INDEXYIED": -0.45
+  },
+  {
+    "PDATE": "2017-03-09",
+    "YIELD": -1.82,
+    "INDEXYIED": -0.47
+  },
+  {
+    "PDATE": "2017-03-10",
+    "YIELD": -1.82,
+    "INDEXYIED": -0.47
+  },
+  {
+    "PDATE": "2017-03-13",
+    "YIELD": -1.3,
+    "INDEXYIED": -0.44
+  },
+  {
+    "PDATE": "2017-03-14",
+    "YIELD": -1.43,
+    "INDEXYIED": -0.43
+  },
+  {
+    "PDATE": "2017-03-15",
+    "YIELD": -1.17,
+    "INDEXYIED": -0.44
+  },
+  {
+    "PDATE": "2017-03-16",
+    "YIELD": -1.04,
+    "INDEXYIED": -0.44
+  },
+  {
+    "PDATE": "2017-03-17",
+    "YIELD": -1.5,
+    "INDEXYIED": -0.49
+  },
+  {
+    "PDATE": "2017-03-20",
+    "YIELD": -1.5,
+    "INDEXYIED": -0.47
+  },
+  {
+    "PDATE": "2017-03-21",
+    "YIELD": -1.04,
+    "INDEXYIED": -0.47
+  },
+  {
+    "PDATE": "2017-03-22",
+    "YIELD": -1.04,
+    "INDEXYIED": -0.48
+  },
+  {
+    "PDATE": "2017-03-23",
+    "YIELD": -0.91,
+    "INDEXYIED": -0.47
+  },
+  {
+    "PDATE": "2017-03-24",
+    "YIELD": -0.2,
+    "INDEXYIED": -0.43
+  },
+  {
+    "PDATE": "2017-03-27",
+    "YIELD": -0.52,
+    "INDEXYIED": -0.39
+  },
+  {
+    "PDATE": "2017-03-28",
+    "YIELD": -0.65,
+    "INDEXYIED": -0.43
+  },
+  {
+    "PDATE": "2017-03-29",
+    "YIELD": -0.65,
+    "INDEXYIED": -0.39
+  },
+  {
+    "PDATE": "2017-03-30",
+    "YIELD": -1.04,
+    "INDEXYIED": -0.39
+  },
+  {
+    "PDATE": "2017-03-31",
+    "YIELD": -0.78,
+    "INDEXYIED": -0.38
+  },
+  {
+    "PDATE": "2017-04-05",
+    "YIELD": -0.59,
+    "INDEXYIED": -0.32
+  },
+  {
+    "PDATE": "2017-04-06",
+    "YIELD": -0.52,
+    "INDEXYIED": -0.3
+  },
+  {
+    "PDATE": "2017-04-07",
+    "YIELD": -0.78,
+    "INDEXYIED": -0.26
+  },
+  {
+    "PDATE": "2017-04-10",
+    "YIELD": -0.98,
+    "INDEXYIED": -0.2
+  },
+  {
+    "PDATE": "2017-04-11",
+    "YIELD": -1.11,
+    "INDEXYIED": -0.22
+  },
+  {
+    "PDATE": "2017-04-12",
+    "YIELD": -0.91,
+    "INDEXYIED": -0.22
+  },
+  {
+    "PDATE": "2017-04-13",
+    "YIELD": -0.65,
+    "INDEXYIED": -0.18
+  },
+  {
+    "PDATE": "2017-04-14",
+    "YIELD": -1.43,
+    "INDEXYIED": -0.17
+  },
+  {
+    "PDATE": "2017-04-17",
+    "YIELD": -1.95,
+    "INDEXYIED": -0.18
+  },
+  {
+    "PDATE": "2017-04-18",
+    "YIELD": -1.63,
+    "INDEXYIED": -0.16
+  },
+  {
+    "PDATE": "2017-04-19",
+    "YIELD": -1.5,
+    "INDEXYIED": -0.17
+  },
+  {
+    "PDATE": "2017-04-20",
+    "YIELD": -0.78,
+    "INDEXYIED": -0.19
+  },
+  {
+    "PDATE": "2017-04-21",
+    "YIELD": -0.91,
+    "INDEXYIED": -0.16
+  },
+  {
+    "PDATE": "2017-04-24",
+    "YIELD": -1.76,
+    "INDEXYIED": -0.15
+  },
+  {
+    "PDATE": "2017-04-25",
+    "YIELD": -0.85,
+    "INDEXYIED": -0.12
+  },
+  {
+    "PDATE": "2017-04-26",
+    "YIELD": -0.39,
+    "INDEXYIED": -0.13
+  },
+  {
+    "PDATE": "2017-04-27",
+    "YIELD": -0.26,
+    "INDEXYIED": -0.11
+  },
+  {
+    "PDATE": "2017-04-28",
+    "YIELD": -0.52,
+    "INDEXYIED": -0.11
+  },
+  {
+    "PDATE": "2017-05-02",
+    "YIELD": -0.46,
+    "INDEXYIED": -0.08
+  },
+  {
+    "PDATE": "2017-05-03",
+    "YIELD": -0.06,
+    "INDEXYIED": -0.08
+  },
+  {
+    "PDATE": "2017-05-04",
+    "YIELD": 0.13,
+    "INDEXYIED": -0.09
+  },
+  {
+    "PDATE": "2017-05-05",
+    "YIELD": 0,
+    "INDEXYIED": -0.09
+  },
+  {
+    "PDATE": "2017-05-08",
+    "YIELD": -2.02,
+    "INDEXYIED": -0.09
+  },
+  {
+    "PDATE": "2017-05-09",
+    "YIELD": -2.08,
+    "INDEXYIED": -0.09
+  },
+  {
+    "PDATE": "2017-05-10",
+    "YIELD": -2.15,
+    "INDEXYIED": -0.18
+  },
+  {
+    "PDATE": "2017-05-11",
+    "YIELD": -2.15,
+    "INDEXYIED": -0.23
+  },
+  {
+    "PDATE": "2017-05-12",
+    "YIELD": -1.24,
+    "INDEXYIED": -0.29
+  },
+  {
+    "PDATE": "2017-05-15",
+    "YIELD": -1.04,
+    "INDEXYIED": -0.43
+  },
+  {
+    "PDATE": "2017-05-16",
+    "YIELD": 0.07,
+    "INDEXYIED": -0.3
+  },
+  {
+    "PDATE": "2017-05-17",
+    "YIELD": -0.13,
+    "INDEXYIED": -0.36
+  },
+  {
+    "PDATE": "2017-05-18",
+    "YIELD": -0.52,
+    "INDEXYIED": -0.36
+  },
+  {
+    "PDATE": "2017-05-19",
+    "YIELD": -0.33,
+    "INDEXYIED": -0.38
+  },
+  {
+    "PDATE": "2017-05-22",
+    "YIELD": -0.52,
+    "INDEXYIED": -0.42
+  },
+  {
+    "PDATE": "2017-05-23",
+    "YIELD": -0.59,
+    "INDEXYIED": -0.4
+  },
+  {
+    "PDATE": "2017-05-24",
+    "YIELD": -0.91,
+    "INDEXYIED": -0.44
+  },
+  {
+    "PDATE": "2017-05-25",
+    "YIELD": -0.46,
+    "INDEXYIED": -0.45
+  },
+  {
+    "PDATE": "2017-05-26",
+    "YIELD": -0.52,
+    "INDEXYIED": -0.55
+  },
+  {
+    "PDATE": "2017-05-31",
+    "YIELD": -0.52,
+    "INDEXYIED": -0.39
+  },
+  {
+    "PDATE": "2017-06-01",
+    "YIELD": -0.2,
+    "INDEXYIED": -0.4
+  },
+  {
+    "PDATE": "2017-06-02",
+    "YIELD": -0.59,
+    "INDEXYIED": -0.37
+  },
+  {
+    "PDATE": "2017-06-05",
+    "YIELD": -0.59,
+    "INDEXYIED": -0.35
+  },
+  {
+    "PDATE": "2017-06-06",
+    "YIELD": 0.26,
+    "INDEXYIED": -0.4
+  },
+  {
+    "PDATE": "2017-06-07",
+    "YIELD": 1.24,
+    "INDEXYIED": -0.35
+  },
+  {
+    "PDATE": "2017-06-08",
+    "YIELD": 1.82,
+    "INDEXYIED": -0.37
+  },
+  {
+    "PDATE": "2017-06-09",
+    "YIELD": 2.67,
+    "INDEXYIED": -0.36
+  },
+  {
+    "PDATE": "2017-06-12",
+    "YIELD": 2.86,
+    "INDEXYIED": -0.31
+  },
+  {
+    "PDATE": "2017-06-13",
+    "YIELD": 3.06,
+    "INDEXYIED": -0.3
+  },
+  {
+    "PDATE": "2017-06-14",
+    "YIELD": 2.34,
+    "INDEXYIED": -0.27
+  },
+  {
+    "PDATE": "2017-06-15",
+    "YIELD": 2.47,
+    "INDEXYIED": -0.28
+  },
+  {
+    "PDATE": "2017-06-16",
+    "YIELD": 2.41,
+    "INDEXYIED": -0.23
+  },
+  {
+    "PDATE": "2017-06-19",
+    "YIELD": 3.45,
+    "INDEXYIED": -0.19
+  },
+  {
+    "PDATE": "2017-06-20",
+    "YIELD": 3.64,
+    "INDEXYIED": -0.19
+  },
+  {
+    "PDATE": "2017-06-21",
+    "YIELD": 4.42,
+    "INDEXYIED": -0.18
+  },
+  {
+    "PDATE": "2017-06-22",
+    "YIELD": 4.36,
+    "INDEXYIED": -0.18
+  },
+  {
+    "PDATE": "2017-06-23",
+    "YIELD": 4.68,
+    "INDEXYIED": -0.2
+  },
+  {
+    "PDATE": "2017-06-26",
+    "YIELD": 5.72,
+    "INDEXYIED": -0.25
+  },
+  {
+    "PDATE": "2017-06-27",
+    "YIELD": 5.72,
+    "INDEXYIED": -0.25
+  },
+  {
+    "PDATE": "2017-06-28",
+    "YIELD": 4.88,
+    "INDEXYIED": -0.22
+  },
+  {
+    "PDATE": "2017-06-29",
+    "YIELD": 4.62,
+    "INDEXYIED": -0.23
+  },
+  {
+    "PDATE": "2017-06-30",
+    "YIELD": 4.62,
+    "INDEXYIED": -0.23
+  },
+  {
+    "PDATE": "2017-07-03",
+    "YIELD": 4.29,
+    "INDEXYIED": -0.2
+  },
+  {
+    "PDATE": "2017-07-04",
+    "YIELD": 4.29,
+    "INDEXYIED": -0.26
+  },
+  {
+    "PDATE": "2017-07-05",
+    "YIELD": 5.33,
+    "INDEXYIED": -0.26
+  },
+  {
+    "PDATE": "2017-07-06",
+    "YIELD": 5.72,
+    "INDEXYIED": -0.23
+  },
+  {
+    "PDATE": "2017-07-07",
+    "YIELD": 5.66,
+    "INDEXYIED": -0.21
+  },
+  {
+    "PDATE": "2017-07-10",
+    "YIELD": 5.07,
+    "INDEXYIED": -0.23
+  },
+  {
+    "PDATE": "2017-07-11",
+    "YIELD": 5.4,
+    "INDEXYIED": -0.25
+  },
+  {
+    "PDATE": "2017-07-12",
+    "YIELD": 4.88,
+    "INDEXYIED": -0.25
+  },
+  {
+    "PDATE": "2017-07-13",
+    "YIELD": 5.53,
+    "INDEXYIED": -0.25
+  },
+  {
+    "PDATE": "2017-07-14",
+    "YIELD": 5.92,
+    "INDEXYIED": -0.24
+  },
+  {
+    "PDATE": "2017-07-17",
+    "YIELD": 5.85,
+    "INDEXYIED": -0.22
+  },
+  {
+    "PDATE": "2017-07-18",
+    "YIELD": 5.85,
+    "INDEXYIED": -0.23
+  },
+  {
+    "PDATE": "2017-07-19",
+    "YIELD": 6.63,
+    "INDEXYIED": -0.22
+  },
+  {
+    "PDATE": "2017-07-20",
+    "YIELD": 7.15,
+    "INDEXYIED": -0.23
+  },
+  {
+    "PDATE": "2017-07-21",
+    "YIELD": 7.35,
+    "INDEXYIED": -0.24
+  },
+  {
+    "PDATE": "2017-07-24",
+    "YIELD": 7.67,
+    "INDEXYIED": -0.2
+  },
+  {
+    "PDATE": "2017-07-25",
+    "YIELD": 6.96,
+    "INDEXYIED": -0.22
+  },
+  {
+    "PDATE": "2017-07-26",
+    "YIELD": 6.57,
+    "INDEXYIED": -0.24
+  },
+  {
+    "PDATE": "2017-07-27",
+    "YIELD": 6.63,
+    "INDEXYIED": -0.29
+  },
+  {
+    "PDATE": "2017-07-28",
+    "YIELD": 6.96,
+    "INDEXYIED": -0.28
+  },
+  {
+    "PDATE": "2017-07-31",
+    "YIELD": 7.28,
+    "INDEXYIED": -0.26
+  },
+  {
+    "PDATE": "2017-08-01",
+    "YIELD": 7.93,
+    "INDEXYIED": -0.33
+  },
+  {
+    "PDATE": "2017-08-02",
+    "YIELD": 8.19,
+    "INDEXYIED": -0.2
+  },
+  {
+    "PDATE": "2017-08-03",
+    "YIELD": 7.41,
+    "INDEXYIED": -0.27
+  },
+  {
+    "PDATE": "2017-08-04",
+    "YIELD": 7.28,
+    "INDEXYIED": -0.31
+  },
+  {
+    "PDATE": "2017-08-07",
+    "YIELD": 7.35,
+    "INDEXYIED": -0.28
+  },
+  {
+    "PDATE": "2017-08-08",
+    "YIELD": 7.48,
+    "INDEXYIED": -0.31
+  },
+  {
+    "PDATE": "2017-08-09",
+    "YIELD": 7.15,
+    "INDEXYIED": -0.3
+  },
+  {
+    "PDATE": "2017-08-10",
+    "YIELD": 7.09,
+    "INDEXYIED": -0.33
+  },
+  {
+    "PDATE": "2017-08-11",
+    "YIELD": 6.37,
+    "INDEXYIED": -0.28
+  },
+  {
+    "PDATE": "2017-08-14",
+    "YIELD": 7.02,
+    "INDEXYIED": -0.28
+  },
+  {
+    "PDATE": "2017-08-15",
+    "YIELD": 7.22,
+    "INDEXYIED": -0.15
+  },
+  {
+    "PDATE": "2017-08-16",
+    "YIELD": 7.09,
+    "INDEXYIED": -0.13
+  },
+  {
+    "PDATE": "2017-08-17",
+    "YIELD": 7.15,
+    "INDEXYIED": -0.13
+  },
+  {
+    "PDATE": "2017-08-18",
+    "YIELD": 7.22,
+    "INDEXYIED": -0.13
+  },
+  {
+    "PDATE": "2017-08-21",
+    "YIELD": 7.28,
+    "INDEXYIED": -0.14
+  },
+  {
+    "PDATE": "2017-08-22",
+    "YIELD": 7.35,
+    "INDEXYIED": -0.13
+  },
+  {
+    "PDATE": "2017-08-23",
+    "YIELD": 7.28,
+    "INDEXYIED": -0.14
+  },
+  {
+    "PDATE": "2017-08-24",
+    "YIELD": 7.02,
+    "INDEXYIED": -0.15
+  },
+  {
+    "PDATE": "2017-08-25",
+    "YIELD": 7.74,
+    "INDEXYIED": -0.17
+  },
+  {
+    "PDATE": "2017-08-28",
+    "YIELD": 8.71,
+    "INDEXYIED": -0.13
+  },
+  {
+    "PDATE": "2017-08-29",
+    "YIELD": 8.91,
+    "INDEXYIED": -0.13
+  },
+  {
+    "PDATE": "2017-08-30",
+    "YIELD": 8.52,
+    "INDEXYIED": -0.06
+  },
+  {
+    "PDATE": "2017-08-31",
+    "YIELD": 8.52,
+    "INDEXYIED": -0.05
+  },
+  {
+    "PDATE": "2017-09-01",
+    "YIELD": 8.45,
+    "INDEXYIED": -0.02
+  },
+  {
+    "PDATE": "2017-09-04",
+    "YIELD": 8.65,
+    "INDEXYIED": -0.01
+  },
+  {
+    "PDATE": "2017-09-05",
+    "YIELD": 8.84,
+    "INDEXYIED": -0.04
+  },
+  {
+    "PDATE": "2017-09-06",
+    "YIELD": 8.71,
+    "INDEXYIED": -0.16
+  },
+  {
+    "PDATE": "2017-09-07",
+    "YIELD": 8.65,
+    "INDEXYIED": -0.12
+  },
+  {
+    "PDATE": "2017-09-08",
+    "YIELD": 8.71,
+    "INDEXYIED": -0.13
+  },
+  {
+    "PDATE": "2017-09-11",
+    "YIELD": 8.52,
+    "INDEXYIED": -0.12
+  },
+  {
+    "PDATE": "2017-09-12",
+    "YIELD": 8.26,
+    "INDEXYIED": -0.13
+  },
+  {
+    "PDATE": "2017-09-13",
+    "YIELD": 8.19,
+    "INDEXYIED": -0.13
+  },
+  {
+    "PDATE": "2017-09-14",
+    "YIELD": 7.87,
+    "INDEXYIED": -0.13
+  },
+  {
+    "PDATE": "2017-09-15",
+    "YIELD": 8.06,
+    "INDEXYIED": -0.12
+  },
+  {
+    "PDATE": "2017-09-18",
+    "YIELD": 8.06,
+    "INDEXYIED": -0.1
+  },
+  {
+    "PDATE": "2017-09-19",
+    "YIELD": 7.8,
+    "INDEXYIED": -0.1
+  },
+  {
+    "PDATE": "2017-09-20",
+    "YIELD": 7.87,
+    "INDEXYIED": -0.1
+  },
+  {
+    "PDATE": "2017-09-21",
+    "YIELD": 8.06,
+    "INDEXYIED": -0.11
+  },
+  {
+    "PDATE": "2017-09-22",
+    "YIELD": 7.93,
+    "INDEXYIED": -0.13
+  },
+  {
+    "PDATE": "2017-09-25",
+    "YIELD": 7.67,
+    "INDEXYIED": -0.1
+  },
+  {
+    "PDATE": "2017-09-26",
+    "YIELD": 7.54,
+    "INDEXYIED": -0.1
+  },
+  {
+    "PDATE": "2017-09-27",
+    "YIELD": 7.61,
+    "INDEXYIED": -0.1
+  },
+  {
+    "PDATE": "2017-09-28",
+    "YIELD": 7.67,
+    "INDEXYIED": -0.08
+  },
+  {
+    "PDATE": "2017-09-29",
+    "YIELD": 8,
+    "INDEXYIED": -0.06
+  },
+  {
+    "PDATE": "2017-10-09",
+    "YIELD": 8.32,
+    "INDEXYIED": 0
+  },
+  {
+    "PDATE": "2017-10-10",
+    "YIELD": 8.19,
+    "INDEXYIED": 0
+  },
+  {
+    "PDATE": "2017-10-11",
+    "YIELD": 8.78,
+    "INDEXYIED": 0.01
+  },
+  {
+    "PDATE": "2017-10-12",
+    "YIELD": 9.3,
+    "INDEXYIED": 0.04
+  },
+  {
+    "PDATE": "2017-10-13",
+    "YIELD": 9.3,
+    "INDEXYIED": 0.05
+  },
+  {
+    "PDATE": "2017-10-16",
+    "YIELD": 9.43,
+    "INDEXYIED": 0.1
+  },
+  {
+    "PDATE": "2017-10-17",
+    "YIELD": 9.49,
+    "INDEXYIED": 0.12
+  },
+  {
+    "PDATE": "2017-10-18",
+    "YIELD": 9.82,
+    "INDEXYIED": 0.07
+  },
+  {
+    "PDATE": "2017-10-19",
+    "YIELD": 9.62,
+    "INDEXYIED": 0.08
+  },
+  {
+    "PDATE": "2017-10-20",
+    "YIELD": 9.43,
+    "INDEXYIED": 0.07
+  },
+  {
+    "PDATE": "2017-10-23",
+    "YIELD": 9.56,
+    "INDEXYIED": 0.09
+  },
+  {
+    "PDATE": "2017-10-24",
+    "YIELD": 9.82,
+    "INDEXYIED": 0.15
+  },
+  {
+    "PDATE": "2017-10-25",
+    "YIELD": 10.14,
+    "INDEXYIED": 0.16
+  },
+  {
+    "PDATE": "2017-10-26",
+    "YIELD": 9.95,
+    "INDEXYIED": 0.08
+  },
+  {
+    "PDATE": "2017-10-27",
+    "YIELD": 10.27,
+    "INDEXYIED": 0.05
+  },
+  {
+    "PDATE": "2017-10-30",
+    "YIELD": 9.95,
+    "INDEXYIED": 0.01
+  },
+  {
+    "PDATE": "2017-10-31",
+    "YIELD": 9.95,
+    "INDEXYIED": 0.02
+  },
+  {
+    "PDATE": "2017-11-01",
+    "YIELD": 9.69,
+    "INDEXYIED": 0.03
+  },
+  {
+    "PDATE": "2017-11-02",
+    "YIELD": 9.56,
+    "INDEXYIED": 0.02
+  },
+  {
+    "PDATE": "2017-11-03",
+    "YIELD": 9.43,
+    "INDEXYIED": 0.04
+  }
+]
