@@ -22,7 +22,7 @@ class NavPath extends React.Component {
     })
     return (
       <Breadcrumb style={{ margin: '12px 0' }}>
-        <Breadcrumb.Item key='bc-0'>首页</Breadcrumb.Item>
+        <Breadcrumb.Item key='bc-0'>定投分析</Breadcrumb.Item>
         {bread}
       </Breadcrumb>
     )

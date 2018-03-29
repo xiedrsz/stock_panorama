@@ -1,0 +1,80 @@
+[
+  {
+    "periods": "18017",
+    "Total": 1553,
+    "PTotal": 1860,
+    "QOdd": -493,
+    "POdd": -186,
+    "JX": 0,
+    "Nums": 134,
+    "Touwei": 75,
+    "WinR": 77.44,
+    "QRate": 70.63,
+    "PRate": 49.14
+  },
+  {
+    "periods": "18018",
+    "Total": 1216,
+    "PTotal": 1581,
+    "QOdd": 723,
+    "POdd": -186,
+    "JX": 0,
+    "Nums": 141,
+    "Touwei": 68,
+    "WinR": 73.44,
+    "QRate": 71.07,
+    "PRate": 47.40
+  },
+  {
+    "periods": "18019",
+    "Total": 4110,
+    "PTotal": 6324,
+    "QOdd": -282,
+    "POdd": 1023,
+    "JX": 0,
+    "Nums": 144,
+    "Touwei": 60,
+    "WinR": 84.85,
+    "QRate": 41.69,
+    "PRate": 43.38
+  },
+  {
+    "periods": "18020",
+    "Total": 2698,
+    "PTotal": 3255,
+    "QOdd": -3164,
+    "POdd": -1302,
+    "JX": 0,
+    "Nums": 144,
+    "Touwei": 77,
+    "WinR": 89.6,
+    "QRate": 61.92,
+    "PRate": 49.76
+  },
+  {
+    "periods": "18021",
+    "Total": 1748,
+    "PTotal": 1860,
+    "QOdd": -1416,
+    "POdd": -1302,
+    "JX": 0,
+    "Nums": 252,
+    "Touwei": 84,
+    "WinR": 86.74,
+    "QRate": 67.43,
+    "PRate": 55.83
+  },
+  {
+    "periods": "18022",
+    "Total": 2006,
+    "PTotal": 2232,
+    "QOdd": 404,
+    "POdd": -1302,
+    "JX": 0,
+    "Nums": 237,
+    "Touwei": 81,
+    "WinR": 91.06,
+    "QRate": 69.94,
+    "PRate": 52.58
+  }
+]

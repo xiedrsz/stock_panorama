@@ -22,7 +22,7 @@ export default function menu (state = initialState, action = {}) {
           if (item.indexOf('sub') !== -1) {
             tmpKey = item.replace('sub', '')
             tmpOb = _.find(state.items, function (o) {
-              return o.key === tmpKey
+              return o.key === +tmpKey
             })
             child = tmpOb.child
             navpath.push({
@@ -34,7 +34,7 @@ export default function menu (state = initialState, action = {}) {
             tmpKey = item.replace('menu', '')
             if (child) {
               tmpOb = _.find(child, function (o) {
-                return o.key === tmpKey
+                return o.key === +tmpKey
               })
               navpath.push({
                 key: tmpOb.key,
@@ -45,7 +45,8 @@ export default function menu (state = initialState, action = {}) {
         })
       }
       return Object.assign({}, state, {
-        currentIndex: action.payload.key * 1,
+        // currentIndex: action.payload.key * 1,
+        currentIndex: +tmpKey,
         navpath: navpath
       })
     default:

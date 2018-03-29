@@ -9,10 +9,8 @@ import Line from '../../components/Line'
 import Data from '../../../fake/180012.json'
 import Data1 from '../../../fake/110027.json'
 import { investmentDaily, investmentWeekly } from '@/utils'
-import axios from '@/api'
 import './index.less'
 
-axios.get('/menu').then(data => console.log(data))
 const Search = Input.Search
 const columns = [{
   title: 'Name',

@@ -31,6 +31,7 @@ class App extends React.Component {
     return (
       <Layout className='ant-layout-has-sider'>
         <Sidebar />
+        {/* <Sidebar /> */}
         <Layout>
           <Header profile={auth} logout={actions.logout} />
           <Content style={{ margin: '0 16px' }}>

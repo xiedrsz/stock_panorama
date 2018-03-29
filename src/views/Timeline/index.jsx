@@ -1,72 +1,37 @@
 import React from 'react'
-import { Timeline, Icon } from 'antd'
+import { Row, Col } from 'antd'
 import PanelBox from '../../components/PanelBox'
+import Line from '../../components/MChart/Line'
+import Data from '../../../fake/maima.json'
 
-import './index.less'
-
-let data = [
-  {
-    icon: '',
-    title: 'Create a services site',
-    time: '2015-09-01'
-  },
-  {
-    icon: '',
-    title: 'Create a services site',
-    time: '2015-09-01'
-  },
-  {
-    icon: '',
-    title: 'Create a services site',
-    time: '2015-09-01'
-  },
-  {
-    icon: '',
-    title: 'Create a services site',
-    time: '2015-09-01'
-  },
-  {
-    icon: '',
-    title: 'Create a services site',
-    time: '2015-09-01'
-  },
-  {
-    icon: 'clock-circle-o',
-    title: 'Create a services site',
-    time: '2015-09-01'
-  },
-  {
-    icon: '',
-    title: 'Create a services site',
-    time: '2015-09-01'
-  },
-  {
-    icon: '',
-    title: 'Create a services site',
-    time: '2015-09-01'
+export default class Home extends React.Component {
+  constructor () {
+    super()
+    this.state = {
+      data: Data
+    }
   }
-]
 
-export default class TimelinePage extends React.Component {
-  state = {
-    data: []
+  componentWillMount () {
   }
+
   componentDidMount () {
-    this.setState({
-      data: data
-    })
   }
+
+  callback () {
+  }
+
   render () {
     return (
-      <PanelBox title='Timeline Page'>
-        <Timeline>
-          {this.state.data.map((item, i) => {
-            return (
-              <Timeline.Item key={i} dot={item.icon ? <Icon type={item.icon} style={{ fontSize: '16px' }} /> : null} color='green'>{item.title} {item.time}</Timeline.Item>
-            )
-          })}
-        </Timeline>
-      </PanelBox>
+      <div>
+        <Row gutter={16} type='flex' justify='space-between'>
+          <Col xs={24} md={24}>
+            <PanelBox title='卖吗历史收益统计'>
+              <Line />
+            </PanelBox>
+          </Col>
+        </Row>
+      </div>
     )
   }
 }
