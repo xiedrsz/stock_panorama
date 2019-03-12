@@ -5,6 +5,7 @@ import 'g2-plugin-slider'
 import PropTypes from 'prop-types'
 import _ from 'lodash'
 import mas from '../../../fake/scatter.json'
+import './analyze'
 
 let nnos = _.keys(mas)
 _.forEach(nnos, item => {
